@@ -8,10 +8,10 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to Kubernetes!</h1>
+          <h1 className="App-title">Welcome to H!</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          To get started, message me on <a><code>social-media/linkedin.js</code></a>, and let's chat.
         </p>
       </div>
     );
